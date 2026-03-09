@@ -1,0 +1,6 @@
+[package]
+name = "c_recap_till_120"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

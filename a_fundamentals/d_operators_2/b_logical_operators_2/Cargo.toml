@@ -1,0 +1,6 @@
+[package]
+name = "b_logical_operators_2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
