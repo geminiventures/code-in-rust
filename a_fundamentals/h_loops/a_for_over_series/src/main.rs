@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    for i in 3..=27 {
+        println!("Hello Coddy: {}", i);
+    }
 }
