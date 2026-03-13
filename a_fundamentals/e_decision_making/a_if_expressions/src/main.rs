@@ -11,3 +11,4 @@ fn main() {
     c += 1;
     println!("c = {}", c);
 }
+
